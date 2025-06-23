@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Software Engineer | 🎓 Grad Student @ University of Pittsburgh | 🧠 AI + Systems Enthusiast | 🏆 Finalist @ Big Idea ‘25</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/girisushil/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:girisushil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sushilkrgiri/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:girisushil23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/girisushil"><img src="https://img.shields.io/github/followers/girisushil?label=Follow&style=for-the-badge" /></a>
 </p>
 
