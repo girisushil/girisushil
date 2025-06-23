@@ -11,11 +11,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Master’s in Computer and Information Science @ **University of Pittsburgh**
 - 🧠 Passionate about **Distributed Systems**, **Full-Stack Development**, and **Agentic AI**
-- 🔬 Conducting research using **Meta’s Project Aria** for AI-powered health monitoring via sensors and computer vision
-- 🏆 Built **LoadKaar**, a logistics startup that became a **U.S. finalist** at the Big Idea Competition 2025
-- 🌍 Building systems that scale, adapt, and solve real-world problems
+- 🎓 Currently pursuing my **Master’s in Computer and Information Science** at the **University of Pittsburgh**
+- 🎓 Completed my **B.Tech in Computer Science and Engineering** from **IIIT Delhi**, with a **minor in Economics**
+- 🏆 Ranked **AIR 3** in a **national-level collegiate mathematics competition**
+- 🚀 Finalist at the **Big Idea Competition 2025 (USA)** for LoadKaar – an innovative micro-warehousing logistics startup
+- 🔬 Conducting research with **Meta’s Project Aria**, focused on **AI-based real-time food health monitoring** via smart glasses
+- 💡 Strong belief in engineering systems that are not just scalable, but *impactful*
 
 ---
 
@@ -50,9 +52,10 @@
 
 ### 🔭 Current Focus
 
-- Scaling backend systems for intelligent data pipelines  
-- Building end-to-end **Agentic AI** apps (LLMs + autonomous agents)  
-- Exploring **Scalable AI Architecture**, **Prompt Engineering**, and **ML**
+- Agentic AI & LLMs (Autonomous Agents, Prompt Engineering)
+- Scalable Backend Architecture (event-driven, queue-based)
+- Distributed Systems and Smart APIs
+- Innovation using Tech
 
 ---
 
