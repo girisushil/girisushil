@@ -52,7 +52,7 @@
 
 - Scaling backend systems for intelligent data pipelines  
 - Building end-to-end **Agentic AI** apps (LLMs + autonomous agents)  
-- Exploring **RL**, **Prompt Engineering**, and **ML Ops**
+- Exploring **Scalable AI Architecture**, **Prompt Engineering**, and **ML**
 
 ---
 
